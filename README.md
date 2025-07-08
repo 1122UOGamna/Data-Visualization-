@@ -27,5 +27,25 @@ This repository is a collection of my data visualization projects using various 
 - **Jupyter Notebooks** for clean and interactive presentation
 - Occasionally: `Tableau`, `Power BI`, or other external tools (if applicable)
 
-## 📁 Structure
+ Goals & Future Plans
+I'm always looking for new ways to visualize and interpret data. Future plans include:
+
+Building interactive dashboards using Streamlit or Dash
+
+Real-time data visualizations with APIs
+
+Advanced 3D and animated charts
+
+Domain-specific visualizations (e.g., healthcare, finance)
+
+🤝 Contributing
+Have a cool visualization idea or a dataset you'd like to see explored? Feel free to fork, contribute, or open an issue!
+
+📬 Contact
+Feel free to connect with me on GitHub or LinkedIn — I’m always excited to discuss data, design, and discovery!
+
+Let data speak—clearly, creatively, and compellingly.
+
+
+
 
